@@ -12,3 +12,6 @@ class Solution {
         return positionOfLastEligible;
     }
 }
+
+Time complexity: O(n)
+Space complexity: O(1)
